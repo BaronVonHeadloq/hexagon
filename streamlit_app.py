@@ -1,1 +1,3 @@
-# Created main py bit
+import streamlit
+
+streamlit.title('Feed me, Seymour!*)
